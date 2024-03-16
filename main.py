@@ -27,7 +27,7 @@ if choice == "Home":
 
     # Text input and analyze button
     with st.form(key="nlpForm"):
-        raw_text = st.text_area("Enter Text Here")
+        raw_text = st.text_area("Enter the Tweet")
         submit_button = st.form_submit_button(label="Analyze")
 
     # Display balloons on submit
