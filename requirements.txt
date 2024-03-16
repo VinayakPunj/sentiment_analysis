@@ -2,3 +2,4 @@ transformers
 streamlit
 pandas
 altair
+pytorch
