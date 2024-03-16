@@ -20,7 +20,7 @@ st.sidebar.markdown(how_to_use)
 choice = st.sidebar.radio("Navigation", ["Home", "About"])
 
 if choice == "Home":
-    st.subheader("Home")
+    st.subheader("Tweet Sentiment Analyzer by ASVA")
 
     # Select model
     model_name = "ROBERTA"  # Only one model available
