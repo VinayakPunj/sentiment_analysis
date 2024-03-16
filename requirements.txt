@@ -2,4 +2,4 @@ transformers
 streamlit
 pandas
 altair
-pytorch
+torch
